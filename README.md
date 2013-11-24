@@ -1,8 +1,8 @@
 HYListView
 ==========
 
-List mode and Card mode
+列表模式和卡片模式
 
-ScreenShot
+GIF截图
 
 ![Mou icon](ScreenShot.gif)
